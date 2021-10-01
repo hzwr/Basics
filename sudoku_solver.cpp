@@ -1,4 +1,6 @@
 #include <vector>
+#include <cstdio>
+#include <algorithm>
 
 int backtrack = 0;
 
